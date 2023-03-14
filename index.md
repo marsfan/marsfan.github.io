@@ -4,3 +4,8 @@
 
 layout: home
 ---
+# Welcome!
+
+This site is mean to serve a few purposes. It serves as a profile about
+myself, a place to document projects I'm working on, and a general
+blog for me to post any random thoughts that come to my head.
