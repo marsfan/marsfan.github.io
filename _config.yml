@@ -30,6 +30,7 @@ github_username: marsfan
 theme: minima
 plugins:
   - jekyll-feed
+strict_front_matter: true # Fail if there is an error in front matter.
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
