@@ -30,7 +30,7 @@ programs included in the pacages.
 Useful command for bundle with jekyll
 
 * `bundle install`: Install packages specified in lockfile
-* `bundle update`: Update packages specified in lockfile
+* `bundle update`: Update packages specified in lockfile to match what is in gemfile
 * `bundle exec`: Execute commands
   * `bundle exec jekyll`: Execute jekyll
     * `bundle exec jekyll build`: Build website
