@@ -31,6 +31,8 @@ Useful command for bundle with jekyll
 
 * `bundle install`: Install packages specified in lockfile
 * `bundle update`: Update packages specified in lockfile to match what is in gemfile
+* `bundle outdated`: List outdated packages in gemfile/lockfile
+  * Note that this can list dependencies that are outdated, but must be kept outdated to match other requirements
 * `bundle exec`: Execute commands
   * `bundle exec jekyll`: Execute jekyll
     * `bundle exec jekyll build`: Build website
